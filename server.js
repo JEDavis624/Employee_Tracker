@@ -160,6 +160,11 @@ function promptDepartment(departmentChoices) {
 }
 
 // View Roles
+function viewRoles() {
+  console.log("Viewing Roles\n");
+
+}
+  
 
 // Add Employees
 function addEmployee() {
@@ -229,6 +234,10 @@ function promptInsert(roleChoices) {
 }
 
 // Add Departments
+function addDepartment(){
+
+  
+}
 
 // Add Roles
 function addRole() {
